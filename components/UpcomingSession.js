@@ -48,7 +48,7 @@ const UpcomingSession = ({sessions}) => {
               </p>
               <Phone
                 size={28}
-                className="bg-[#776EA5] fill-white text-white rounded-full p-[7] mt-1"
+                className="bg-[#776EA5] fill-white text-white rounded-full p-[7px] mt-1"
               />
             </div>
           </div>
